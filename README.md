@@ -1,9 +1,9 @@
-Salesforce-Veeva QA Portfolio
+# Salesforce-Veeva QA Portfolio
 
 Welcome to my professional Quality Assurance (QA) portfolio. This repository highlights my manual and automation testing expertise, with a particular focus on applications built on Salesforce and Veeva Vault within the Life Sciences domain.
 ---
 
-👨‍💼 About Me
+## 👨‍💼 About Me
 
 I am a QA Engineer with 4.8 years of hands-on experience in:
 - Manual Testing
@@ -17,17 +17,17 @@ I am a QA Engineer with 4.8 years of hands-on experience in:
 
 ---
 
-📁 Repository Contents
+## 📁 Repository Contents
 
-🔹 1. `Salesforce_Login_Test_Case.md`
+### 🔹 1. `Salesforce_Login_Test_Case.md`
 A manual test case outlining the end-to-end login functionality for a Salesforce application.
 
-🔹 2. `SalesforceLoginTest.java`
+### 🔹 2. `SalesforceLoginTest.java`
 A sample Selenium WebDriver script (Java) to automate Salesforce login testing.
 
 ---
 
-📌 Purpose
+## 📌 Purpose
 This repository is intended to:
 - Demonstrate my practical QA knowledge and skills
 - Showcase real-world test documentation and automation practices
@@ -35,7 +35,7 @@ This repository is intended to:
 
 ---
 
-💼 Let's Connect
+## 💼 Let's Connect
 
 📧 Email: ramyavenkatesan519@gmail.com
 🔗 LinkedIn:https://www.linkedin.com/in/ramya-venkatesan
