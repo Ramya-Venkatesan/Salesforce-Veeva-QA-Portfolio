@@ -1,4 +1,4 @@
-# Test Case: Salesforce Login Functionality
+Test Case: Salesforce Login Functionality
 
 **Test Case ID:** TC001  
 **Module:** User Authentication  
@@ -8,7 +8,7 @@
 
 ---
 
-### Test Steps:
+Test Steps:
 | Step No. | Action                          | Expected Outcome                       | Actual Outcome | Status(Pass/Fail)
                                                                                              
 |----------|------------------------------   |----------------------------------------|----------------|----------------|
@@ -17,7 +17,7 @@
 | 3        | Click “Login” button            | User dashboard/homepage is displayed   |                |                |
 
 ---
-### Notes:  
+Notes:  
 - Verify proper error messages for invalid login attempts.  
 - Perform cross-browser testing on Chrome and Firefox.
 
